@@ -33,6 +33,9 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🎯 Following a structured **SOC Analyst Roadmap**
 - 🔵 Blue Team focused — Detection, Forensics, Analysis
 - 🐧 Comfortable with **Kali Linux** in no-internet CTF environments
+- 🔴 Experienced with **Authentication Bypass** using Burp Suite
+- 💉 Practiced **SQL Injection** using SQLMap on vulnerable web apps
+- 🌐 Familiar with **OWASP Top 10** vulnerabilities
 - 📚 Currently studying: **Networking Fundamentals**
 
 ---
@@ -60,35 +63,48 @@ career_target: SOC Analyst / Blue Team / DFIR
 **Platforms practiced on:**
 - 🎮 [picoCTF](https://picoctf.org)
 - 🏰 [OverTheWire — Bandit](https://overthewire.org/wargames/bandit/)
+- 🧃 [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- 🎯 [CyLab Security Academy](https://learn.cylabacademy.org)
+- 🔍 Acunetix Acuart (Vulnerable Web App Practice)
 
 ---
 
 ## 🗺️ SOC Analyst Roadmap Progress
 
 ```
-Phase 1 — Linux Foundation        [✅ DONE]     ██████████ 100%
-Phase 2 — Networking              [🔄 ACTIVE]   █████░░░░░  50%
-Phase 3 — Python Basics           [🟡 PARTIAL]  ████░░░░░░  40%
-Phase 4 — Cybersecurity Fundamentals [⏳ NEXT]  ░░░░░░░░░░   0%
-Phase 5 — Wireshark + Log Analysis   [⏳ SOON]  ░░░░░░░░░░   0%
-Phase 6 — SIEM + Splunk              [⏳ SOON]  ░░░░░░░░░░   0%
-Phase 7 — Portfolio + Resume         [⏳ SOON]  ░░░░░░░░░░   0%
+Phase 1 — Linux Foundation           [✅ DONE]     ██████████ 100%
+Phase 2 — Networking                 [🔄 ACTIVE]   █████░░░░░  50%
+Phase 3 — Python Basics              [🟡 PARTIAL]  ████░░░░░░  40%
+Phase 4 — Cybersecurity Fundamentals [⏳ NEXT]     ░░░░░░░░░░   0%
+Phase 5 — Wireshark + Log Analysis   [⏳ SOON]     ░░░░░░░░░░   0%
+Phase 6 — SIEM + Splunk              [⏳ SOON]     ░░░░░░░░░░   0%
+Phase 7 — Portfolio + Resume         [⏳ SOON]     ░░░░░░░░░░   0%
 ```
 
 ---
 
 ## 🛠️ Tools & Technologies
 
+### ⚔️ Offensive / Pentesting Tools
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Currently Learning:**
+### 🛡️ Defensive / SOC Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎯 Practice Platforms
+![PicoCTF](https://img.shields.io/badge/picoCTF-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-black?style=for-the-badge&logo=linux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Juice_Shop-purple?style=for-the-badge&logo=owasp&logoColor=white)
+![CyLab](https://img.shields.io/badge/CyLab_Academy-blue?style=for-the-badge&logo=academia&logoColor=white)
 
 ---
 
@@ -107,9 +123,9 @@ Phase 7 — Portfolio + Resume         [⏳ SOON]  ░░░░░░░░░�
 
 <div align="center">
 
-![Leoneil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![Leoneil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leidsct&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leidsct&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
@@ -117,8 +133,8 @@ Phase 7 — Portfolio + Resume         [⏳ SOON]  ░░░░░░░░░�
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![CyLab](https://img.shields.io/badge/CyLab_Academy-0A66C2?style=for-the-badge&logo=academia&logoColor=white)](https://learn.cylabacademy.org/profile)
 
 ---
 
@@ -126,6 +142,6 @@ Phase 7 — Portfolio + Resume         [⏳ SOON]  ░░░░░░░░░�
 
 *"Focus on fundamentals first. Build small but complete projects. Stay consistent and practice hands-on."*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=leidsct.leidsct)
 
 </div>
