@@ -130,8 +130,37 @@ Phase 7 — Portfolio + Resume         [⏳ SOON]     ░░░░░░░░�
 </div>
 
 ---
+</div>
+
+---
+
+## 🎯 TryHackMe — SOC Level 1 Path
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 55% Globally | 🎖️ 3 Badges
+
+### ✅ Completed Rooms (7)
+- 🔵 Junior Security Analyst Intro
+- 🔵 SOC Role in Blue Team
+- 🔵 SOC L1 Alert Triage
+- 🔵 SOC L1 Alert Reporting 🚩
+- 🔵 Introduction to SIEM
+- 🔴 Offensive Security Intro
+- 🔵 Defensive Security Intro
+
+### 🏆 League Achievement
+- 🥉 Bronze League — Top 5 | 384 Points
+
+---
 
 ## 📫 Connect With Me
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/LEi)
+[![CyLab](https://img.shields.io/badge/CyLab_Academy-0A66C2?style=for-the-badge&logo=academia&logoColor=white)](https://learn.cylabacademy.org/profile)
+---
+
+## 📫 Connect With Me  
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
 [![CyLab](https://img.shields.io/badge/CyLab_Academy-0A66C2?style=for-the-badge&logo=academia&logoColor=white)](https://learn.cylabacademy.org/profile)
