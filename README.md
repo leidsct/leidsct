@@ -72,10 +72,10 @@ career_target: SOC Analyst / Blue Team / DFIR
 ## 🗺️ SOC Analyst Roadmap Progress
 
 ```
-Phase 1 — Linux Foundation           [✅ DONE]     ██████████ 100%
+Phase 1 — Linux Foundation           [✅ DONE]     ██████████ 90%
 Phase 2 — Networking                 [🔄 ACTIVE]   █████░░░░░  50%
 Phase 3 — Python Basics              [🟡 PARTIAL]  ████░░░░░░  40%
-Phase 4 — Cybersecurity Fundamentals [⏳ NEXT]     ░░░░░░░░░░   0%
+Phase 4 — Cybersecurity Fundamentals [⏳ NEXT]     ░░░░░░░░░░  100%
 Phase 5 — Wireshark + Log Analysis   [⏳ SOON]     ░░░░░░░░░░   0%
 Phase 6 — SIEM + Splunk              [⏳ SOON]     ░░░░░░░░░░   0%
 Phase 7 — Portfolio + Resume         [⏳ SOON]     ░░░░░░░░░░   0%
