@@ -36,7 +36,8 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🔴 Experienced with **Authentication Bypass** using Burp Suite
 - 💉 Practiced **SQL Injection** using SQLMap on vulnerable web apps
 - 🌐 Familiar with **OWASP Top 10** vulnerabilities
-- 📚 Currently studying: **Networking Fundamentals**
+- 📊 Hands-on with **Splunk** — log analysis & threat hunting
+- 📚 Currently studying: **Networking Fundamentals** & **SIEM (Splunk)**
 
 ---
 
@@ -72,13 +73,13 @@ career_target: SOC Analyst / Blue Team / DFIR
 ## 🗺️ SOC Analyst Roadmap Progress
 
 ```
-Phase 1 — Linux Foundation           [✅ DONE]     ██████████ 90%
+Phase 1 — Linux Foundation           [✅ DONE]     █████████░  90%
 Phase 2 — Networking                 [🔄 ACTIVE]   █████░░░░░  50%
-Phase 3 — Python Basics              [🟡 PARTIAL]  ████░░░░░░  40%
-Phase 4 — Cybersecurity Fundamentals [⏳ NEXT]     ░░░░░░░░░░  100%
-Phase 5 — Wireshark + Log Analysis   [⏳ SOON]     ░░░░░░░░░░   0%
-Phase 6 — SIEM + Splunk              [⏳ SOON]     ░░░░░░░░░░   0%
-Phase 7 — Portfolio + Resume         [⏳ SOON]     ░░░░░░░░░░   0%
+Phase 3 — Python Basics              [🟡 PARTIAL]  █████░░░░░  50%
+Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ███████░░░  70%
+Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   ███░░░░░░░  30%
+Phase 6 — SIEM + Splunk              [🔄 ACTIVE]   ████░░░░░░  40%
+Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░░░  30%
 ```
 
 ---
@@ -104,17 +105,18 @@ Phase 7 — Portfolio + Resume         [⏳ SOON]     ░░░░░░░░�
 ![OverTheWire](https://img.shields.io/badge/OverTheWire-black?style=for-the-badge&logo=linux&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Juice_Shop-purple?style=for-the-badge&logo=owasp&logoColor=white)
 ![CyLab](https://img.shields.io/badge/CyLab_Academy-blue?style=for-the-badge&logo=academia&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ---
 
-## 📁 Projects (Coming Soon)
+## 📁 Projects
 
 | Project | Description | Status |
 |---|---|---|
-| 🔍 CTF Writeups | Documented CTF challenge solutions | 🔄 In Progress |
+| 🔍 [CTF Writeups](https://github.com/leidsct/CTF-Writeups) | CTF certificate + challenge writeups | 🔄 In Progress |
+| 🖥️ [Splunk SOC Dashboard](https://github.com/leidsct/Splunk-SOC-Dashboard) | DNS threat hunting using Splunk SIEM — found suspicious host via REFUSED query analysis | ✅ Done |
 | 📊 Basic Log Analyzer | Python script for log analysis | ⏳ Planned |
 | 📡 Packet Analysis Report | Wireshark traffic analysis | ⏳ Planned |
-| 🖥️ Security Dashboard | SIEM/Splunk dashboard project | ⏳ Planned |
 
 ---
 
@@ -126,9 +128,6 @@ Phase 7 — Portfolio + Resume         [⏳ SOON]     ░░░░░░░░�
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leidsct&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-</div>
-
----
 </div>
 
 ---
@@ -156,12 +155,6 @@ Phase 7 — Portfolio + Resume         [⏳ SOON]     ░░░░░░░░�
 ## 📫 Connect With Me
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/LEi)
-[![CyLab](https://img.shields.io/badge/CyLab_Academy-0A66C2?style=for-the-badge&logo=academia&logoColor=white)](https://learn.cylabacademy.org/profile)
----
-
-## 📫 Connect With Me  
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
 [![CyLab](https://img.shields.io/badge/CyLab_Academy-0A66C2?style=for-the-badge&logo=academia&logoColor=white)](https://learn.cylabacademy.org/profile)
 
 ---
