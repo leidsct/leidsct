@@ -37,6 +37,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 💉 Practiced **SQL Injection** using SQLMap on vulnerable web apps
 - 🌐 Familiar with **OWASP Top 10** vulnerabilities
 - 📊 Hands-on with **Splunk** — log analysis & threat hunting
+- 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
 - 📚 Currently studying: **Networking Fundamentals** & **SIEM (Splunk)**
 
 ---
@@ -136,9 +137,9 @@ Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░�
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 55% Globally | 🎖️ 3 Badges
+**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 50% Globally | 🎖️ 3 Badges | ⭐ [0x3] PATHFINDER
 
-### ✅ Completed Rooms (7)
+### ✅ Completed Rooms (8)
 - 🔵 Junior Security Analyst Intro
 - 🔵 SOC Role in Blue Team
 - 🔵 SOC L1 Alert Triage
@@ -146,6 +147,12 @@ Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░�
 - 🔵 Introduction to SIEM
 - 🔴 Offensive Security Intro
 - 🔵 Defensive Security Intro
+- 🎣 Phishing Analysis Fundamentals 🆕
+
+### 🎖️ Badges
+- 🎳 First Four — Completed 4 rooms in first week
+- 🔥 3 Day Streak — Achieved 3 day hacking streak
+- 🔍 First Alert Closed — Closing first alert ⭐ Rare (6.8%)
 
 ### 🏆 League Achievement
 - 🥉 Bronze League — Top 5 | 384 Points
