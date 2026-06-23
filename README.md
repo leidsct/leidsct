@@ -1,203 +1,175 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a0a,100:00ff41&height=200&section=header&text=Leoneil%20F.%20Descartin&fontSize=40&fontColor=00ff41&fontAlignY=35&desc=%5B%20SOC%20ANALYST%20%7C%20BLUE%20TEAMER%20%7C%20DFIR%20%5D&descAlignY=55&descColor=00ff41" />
+```
+██████╗ ██╗     ██╗   ██╗███████╗    ████████╗███████╗ █████╗ ███╗   ███╗
+██╔══██╗██║     ██║   ██║██╔════╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+██████╔╝██║     ██║   ██║█████╗         ██║   █████╗  ███████║██╔████╔██║
+██╔══██╗██║     ██║   ██║██╔══╝         ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+██████╔╝███████╗╚██████╔╝███████╗       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Initializing+SOC+Analyst+profile...;%3E+Loading+threat+hunting+modules...;%3E+CTF+1st+Place+Winner+%7C+CPSU+CCS+Day+2025;%3E+Splunk+%7C+SIEM+%7C+DNS+Threat+Hunting...;%3E+Blue+Team+%5B+ACTIVE+%5D)](https://git.io/typing-svg)
+# Hi, I'm Leoneil F. Descartin 👋
+### 🛡️ Aspiring SOC Analyst | Blue Teamer | CTF Player
 
-<br/>
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2050%25-000000?style=flat-square&logo=tryhackme&logoColor=00ff41)
-![Rank](https://img.shields.io/badge/Rank-0x3%20PATHFINDER-000000?style=flat-square&logo=hackthebox&logoColor=00ff41)
-![Rooms](https://img.shields.io/badge/Rooms-8%20Completed-000000?style=flat-square&logo=tryhackme&logoColor=00ff41)
-![CTF](https://img.shields.io/badge/CTF-1st%20Place%20Winner-000000?style=flat-square&logo=hackthebox&logoColor=00ff41)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=SOC+Analyst+in+Training;CTF+Player+%7C+1st+Place+Winner;Cybersecurity+Enthusiast;Blue+Team+%7C+DFIR+Focused)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## $ whoami
+## 👨‍💻 About Me
 
-```bash
-┌──(LEi㉿CPSU)-[~/cybersecurity]
-└─$ cat profile.txt
-
-  operator    : Leoneil F. Descartin
-  location    : San Carlos City, Negros Occidental, PH
-  school      : Central Philippines State University (CPSU)
-  college     : College of Computer Studies
-  year        : 3rd Year IT Student
-  target      : SOC Analyst / Blue Team / DFIR
-  status      : [ACTIVE] — Hunting threats, building skills
-
-┌──(LEi㉿CPSU)-[~/cybersecurity]
-└─$ _
+```yaml
+name: Leoneil F. Descartin
+location: San Carlos City, Negros Occidental, Philippines
+school: Central Philippines State University (CPSU)
+college: College of Computer Studies
+year_level: 3rd Year IT Student
+career_target: SOC Analyst / Blue Team / DFIR
 ```
 
-- 🏆 **1st Place** — CTF Competition, CCS Day 2025–2026 `(Team Pogi)`
-- 🔵 **Blue Team** — Detection, Log Analysis, Threat Hunting
-- 📊 **Splunk** — DNS threat hunting, REFUSED query analysis
-- 🎣 **Phishing Analysis** — Email headers, defanging, IOC extraction
-- 🔴 **Auth Bypass** — Burp Suite on OWASP Juice Shop
-- 💉 **SQL Injection** — SQLMap on Acunetix Acuart
-- 🐧 **Kali Linux** — No-internet CTF environments
+- 🏆 **1st Place** — CTF Competition, CCS Day 2025–2026 (Team Pogi)
+- 🎯 Following a structured **SOC Analyst Roadmap**
+- 🔵 Blue Team focused — Detection, Forensics, Analysis
+- 🐧 Comfortable with **Kali Linux** in no-internet CTF environments
+- 🔴 Experienced with **Authentication Bypass** using Burp Suite
+- 💉 Practiced **SQL Injection** using SQLMap on vulnerable web apps
+- 🌐 Familiar with **OWASP Top 10** vulnerabilities
+- 📊 Hands-on with **Splunk** — log analysis & threat hunting
+- 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
+- 📚 Currently studying: **Networking Fundamentals** & **SIEM (Splunk)**
 
 ---
 
-## $ cat achievements.txt
+## 🏆 Achievements
 
-```
-╔═══════════════════════════════════════════════════════╗
-║            [ CERTIFICATE OF RECOGNITION ]             ║
-║                                                       ║
-║  AWARD    : 1st Place — CTF Competition (Duo)         ║
-║  EVENT    : CCS Day 2025–2026                         ║
-║  SCHOOL   : Central Philippines State University      ║
-║  TEAM     : Team Pogi                                 ║
-║  SIGNED   : Dexter G. Dandan, CCS Program Head        ║
-║                                                       ║
-║  "Demonstrating exceptional analytical skills,        ║
-║   strategic thinking, and cybersecurity expertise."   ║
-╚═══════════════════════════════════════════════════════╝
-```
+| 🥇 Award | 📅 Year | 🏫 Organization |
+|---|---|---|
+| 1st Place — CTF Competition (Duo) | 2025–2026 | CPSU CCS Day |
+
+> *"Demonstrating exceptional analytical skills, strategic thinking, and cybersecurity expertise."*
+> — Dexter G. Dandan, CCS Program Head
 
 ---
 
-## $ ./ctf_results.sh
+## 🛡️ CTF Skills & Categories
 
-```bash
-[*] Loading CTF categories...
-[*] Environment: Kali Linux | No Internet | Duo Team
+```
+[✅] General Skills          ████████████████████  Competed
+[✅] Web Enumeration         ████████████████████  Competed
+[✅] Digital Forensics       ████████████████████  Competed
+[✅] Cryptography            ████████████████████  Competed
+```
 
-[+] General Skills          [████████████████████] COMPETED ✓
-[+] Web Enumeration         [████████████████████] COMPETED ✓
-[+] Digital Forensics       [████████████████████] COMPETED ✓
-[+] Cryptography            [████████████████████] COMPETED ✓
+**Platforms practiced on:**
+- 🎮 [picoCTF](https://picoctf.org)
+- 🏰 [OverTheWire — Bandit](https://overthewire.org/wargames/bandit/)
+- 🧃 [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- 🎯 [CyLab Security Academy](https://learn.cylabacademy.org)
+- 🔍 Acunetix Acuart (Vulnerable Web App Practice)
 
-[*] Practice platforms loaded:
-    > picoCTF
-    > OverTheWire Bandit
-    > OWASP Juice Shop
-    > CyLab Security Academy
-    > Acunetix Acuart
+---
 
-[+] Status: 1ST PLACE ACHIEVED
+## 🗺️ SOC Analyst Roadmap Progress
+
+```
+Phase 1 — Linux Foundation           [✅ DONE]     █████████░  90%
+Phase 2 — Networking                 [🔄 ACTIVE]   █████░░░░░  50%
+Phase 3 — Python Basics              [🟡 PARTIAL]  █████░░░░░  50%
+Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ███████░░░  70%
+Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   ███░░░░░░░  30%
+Phase 6 — SIEM + Splunk              [🔄 ACTIVE]   ████░░░░░░  40%
+Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░░░  30%
 ```
 
 ---
 
-## $ cat roadmap.txt
+## 🛠️ Tools & Technologies
 
-```bash
-[*] SOC Analyst Training Progress...
+### ⚔️ Offensive / Pentesting Tools
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-[+] Phase 1 — Linux Foundation        [█████████░]  90%  ✓ DONE
-[~] Phase 2 — Networking              [█████░░░░░]  50%  ~ ACTIVE
-[~] Phase 3 — Python Basics           [█████░░░░░]  50%  ~ PARTIAL
-[~] Phase 4 — Cyber Fundamentals      [███████░░░]  70%  ~ ACTIVE
-[~] Phase 5 — Wireshark/Log Analysis  [███░░░░░░░]  30%  ~ ACTIVE
-[~] Phase 6 — SIEM + Splunk           [████░░░░░░]  40%  ~ ACTIVE
-[~] Phase 7 — Portfolio + Resume      [███░░░░░░░]  30%  ~ ACTIVE
+### 🛡️ Defensive / SOC Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-[*] Keep going... target: Junior SOC Analyst
-```
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎯 Practice Platforms
+![PicoCTF](https://img.shields.io/badge/picoCTF-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-black?style=for-the-badge&logo=linux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Juice_Shop-purple?style=for-the-badge&logo=owasp&logoColor=white)
+![CyLab](https://img.shields.io/badge/CyLab_Academy-blue?style=for-the-badge&logo=academia&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ---
 
-## $ ls tools/
+## 📁 Projects
+
+| Project | Description | Status |
+|---|---|---|
+| 🔍 [CTF Writeups](https://github.com/leidsct/CTF-Writeups) | CTF certificate + challenge writeups | 🔄 In Progress |
+| 🖥️ [Splunk SOC Dashboard](https://github.com/leidsct/Splunk-SOC-Dashboard) | DNS threat hunting using Splunk SIEM — found suspicious host via REFUSED query analysis | ✅ Done |
+| 📊 Basic Log Analyzer | Python script for log analysis | ⏳ Planned |
+| 📡 Packet Analysis Report | Wireshark traffic analysis | ⏳ Planned |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-**[ OFFENSIVE ]**
+![Leoneil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leidsct&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=00ff41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41)
-![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-
-**[ DEFENSIVE / SOC ]**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41)
-
-**[ LANGUAGES ]**
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-
-**[ PLATFORMS ]**
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41)
-![PicoCTF](https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=google&logoColor=00ff41)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![OWASP](https://img.shields.io/badge/OWASP_Juice_Shop-000000?style=for-the-badge&logo=owasp&logoColor=00ff41)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leidsct&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
 ---
 
-## $ ls projects/
+## 🎯 TryHackMe — SOC Level 1 Path
 
-```bash
-drwxr-xr-x  CTF-Writeups/          [ACTIVE]   CTF cert + challenge writeups
-drwxr-xr-x  Splunk-SOC-Dashboard/  [DONE]     DNS threat hunting — 1,633 REFUSED queries — suspicious host identified
-drwxr-xr-x  Basic-Log-Analyzer/    [PLANNED]  Python automated log analysis script
-drwxr-xr-x  Packet-Analysis/       [PLANNED]  Wireshark network traffic analysis
-```
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-🔗 [CTF-Writeups](https://github.com/leidsct/CTF-Writeups) · [Splunk-SOC-Dashboard](https://github.com/leidsct/Splunk-SOC-Dashboard)
+**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 50% Globally | 🎖️ 3 Badges | ⭐ [0x3] PATHFINDER
 
----
+### ✅ Completed Rooms (8)
+- 🔵 Junior Security Analyst Intro
+- 🔵 SOC Role in Blue Team
+- 🔵 SOC L1 Alert Triage
+- 🔵 SOC L1 Alert Reporting 🚩
+- 🔵 Introduction to SIEM
+- 🔴 Offensive Security Intro
+- 🔵 Defensive Security Intro
+- 🎣 Phishing Analysis Fundamentals 🆕
 
-## $ cat tryhackme_stats.txt
+### 🎖️ Badges
+- 🎳 First Four — Completed 4 rooms in first week
+- 🔥 3 Day Streak — Achieved 3 day hacking streak
+- 🔍 First Alert Closed — Closing first alert ⭐ Rare (6.8%)
 
-```bash
-[*] Fetching TryHackMe profile: LEi
-[+] Rank      : [0x3] PATHFINDER
-[+] Global    : Top 50%
-[+] Badges    : 3
-[+] Rooms     : 8 Completed
-[+] League    : Bronze — Top 5 | 384 Points
-
-[*] SOC Level 1 Path — Completed Rooms:
-    [✓] Junior Security Analyst Intro
-    [✓] SOC Role in Blue Team
-    [✓] SOC L1 Alert Triage
-    [✓] SOC L1 Alert Reporting       > FLAG: THM{looks_like_webshell_via_old_exchange}
-    [✓] Introduction to SIEM
-    [✓] Offensive Security Intro
-    [✓] Defensive Security Intro
-    [✓] Phishing Analysis Fundamentals  [NEW]
-
-[*] Badges earned:
-    [✓] First Four          — Common  (24.5%)
-    [✓] 3 Day Streak        — Common  (33.5%)
-    [✓] First Alert Closed  — ★ RARE  (6.8%)
-```
+### 🏆 League Achievement
+- 🥉 Bronze League — Top 5 | 384 Points
 
 ---
 
-## $ ./connect.sh
+## 📫 Connect With Me
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/LEi)
+[![CyLab](https://img.shields.io/badge/CyLab_Academy-0A66C2?style=for-the-badge&logo=academia&logoColor=white)](https://learn.cylabacademy.org/profile)
+
+---
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/LEi)
-[![CyLab](https://img.shields.io/badge/CyLab_Academy-000000?style=for-the-badge&logo=academia&logoColor=00ff41)](https://learn.cylabacademy.org/profile)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/leidsct)
+*"Focus on fundamentals first. Build small but complete projects. Stay consistent and practice hands-on."*
 
-<br/>
-
-```
-> "Focus on fundamentals first."
-> "Build small but complete projects."
-> "Stay consistent and practice hands-on."
-> _
-```
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=leidsct.leidsct&left_color=000000&right_color=00ff41&left_text=visitors)
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0a1a0a,100:000000&height=100&section=footer" />
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=leidsct.leidsct)
 
 </div>
