@@ -121,7 +121,7 @@ Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   █████░░░�
 | Project | Description | Status |
 |---|---|---|
 | 🖥️ [SOC Home Lab](https://github.com/leidsct/SOC-Home-Lab) | Wazuh SIEM + Sysmon + Kali Linux — full attack simulation & detection with MITRE ATT&CK mapping (T1570) | ✅ Done |
-| 🔍 [CTF Writeups](https://github.com/leidsct/CTF-Writeups) | CTF certificate + challenge writeups | 🔄 In Progress |
+| 🔍 [CTF Writeups](https://github.com/leidsct/CTF-Writeups) | CTF certificate + challenge writeups | ✅ Done |
 | 🖥️ [Splunk SOC Dashboard](https://github.com/leidsct/Splunk-SOC-Dashboard) | DNS threat hunting using Splunk SIEM — found suspicious host via REFUSED query analysis | ✅ Done |
 | 📊 Basic Log Analyzer | Python script for log analysis | ⏳ Planned |
 | 📡 Packet Analysis Report | Wireshark traffic analysis | ⏳ Planned |
