@@ -38,7 +38,8 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🌐 Familiar with **OWASP Top 10** vulnerabilities
 - 📊 Hands-on with **Splunk** — log analysis & threat hunting
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
-- 📚 Currently studying: **Networking Fundamentals** & **SIEM (Splunk)**
+- 🖥️ Built a **Home SOC Lab** — Wazuh SIEM + Sysmon + Kali Linux attack simulation
+- 📚 Currently studying: **MITRE ATT&CK Framework** & **Networking Fundamentals**
 
 ---
 
@@ -74,13 +75,15 @@ career_target: SOC Analyst / Blue Team / DFIR
 ## 🗺️ SOC Analyst Roadmap Progress
 
 ```
-Phase 1 — Linux Foundation           [✅ DONE]     █████████░  90%
-Phase 2 — Networking                 [🔄 ACTIVE]   █████░░░░░  50%
-Phase 3 — Python Basics              [🟡 PARTIAL]  █████░░░░░  50%
-Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ███████░░░  70%
-Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   ███░░░░░░░  30%
-Phase 6 — SIEM + Splunk              [🔄 ACTIVE]   ████░░░░░░  40%
-Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░░░  30%
+Phase 1 — Linux Foundation           [✅ DONE]     ██████████  100%
+Phase 2 — Networking                 [🔄 ACTIVE]   █████░░░░░   50%
+Phase 3 — Python Basics              [🟡 PARTIAL]  █████░░░░░   50%
+Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ███████░░░   70%
+Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   ███░░░░░░░   30%
+Phase 6 — SIEM + Splunk + Wazuh      [✅ DONE]     ██████████  100%
+Phase 7 — Home SOC Lab               [✅ DONE]     ██████████  100%
+Phase 8 — MITRE ATT&CK Framework     [🔄 ACTIVE]   ██░░░░░░░░   20%
+Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   █████░░░░░   50%
 ```
 
 ---
@@ -91,10 +94,13 @@ Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░�
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 ### 🛡️ Defensive / SOC Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=for-the-badge&logo=wazuh&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -114,6 +120,7 @@ Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░�
 
 | Project | Description | Status |
 |---|---|---|
+| 🖥️ [SOC Home Lab](https://github.com/leidsct/SOC-Home-Lab) | Wazuh SIEM + Sysmon + Kali Linux — full attack simulation & detection with MITRE ATT&CK mapping (T1570) | ✅ Done |
 | 🔍 [CTF Writeups](https://github.com/leidsct/CTF-Writeups) | CTF certificate + challenge writeups | 🔄 In Progress |
 | 🖥️ [Splunk SOC Dashboard](https://github.com/leidsct/Splunk-SOC-Dashboard) | DNS threat hunting using Splunk SIEM — found suspicious host via REFUSED query analysis | ✅ Done |
 | 📊 Basic Log Analyzer | Python script for log analysis | ⏳ Planned |
@@ -139,7 +146,7 @@ Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░�
 
 **Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 50% Globally | 🎖️ 3 Badges | ⭐ [0x3] PATHFINDER
 
-### ✅ Completed Rooms (8)
+### ✅ Completed Rooms (9)
 - 🔵 Junior Security Analyst Intro
 - 🔵 SOC Role in Blue Team
 - 🔵 SOC L1 Alert Triage
@@ -147,7 +154,8 @@ Phase 7 — Portfolio + Resume         [🔄 ACTIVE]   ███░░░░░�
 - 🔵 Introduction to SIEM
 - 🔴 Offensive Security Intro
 - 🔵 Defensive Security Intro
-- 🎣 Phishing Analysis Fundamentals 🆕
+- 🎣 Phishing Analysis Fundamentals
+- 🖥️ Wazuh SIEM (Home Lab) 🆕
 
 ### 🎖️ Badges
 - 🎳 First Four — Completed 4 rooms in first week
