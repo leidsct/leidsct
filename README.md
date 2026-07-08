@@ -39,7 +39,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 📊 Hands-on with **Splunk** — log analysis & threat hunting
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
 - 🖥️ Built a **Home SOC Lab** — Wazuh SIEM + Sysmon + Kali Linux attack simulation
-- 📚 Currently studying: **MITRE ATT&CK Framework** & **Networking Fundamentals**
+- 📚 Currently studying: **Pre Security Path (Networking Fundamentals, HTTP, DNS)** & **MITRE ATT&CK Framework**
 
 ---
 
@@ -76,14 +76,14 @@ career_target: SOC Analyst / Blue Team / DFIR
 
 ```
 Phase 1 — Linux Foundation           [🔄 ACTIVE]   ███████░░░   70%
-Phase 2 — Networking                 [🔄 ACTIVE]   █████░░░░░   50%
+Phase 2 — Networking                 [🔄 ACTIVE]   ██████░░░░   60%
 Phase 3 — Python Basics              [🟡 PARTIAL]  █████░░░░░   50%
 Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ███████░░░   70%
 Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   ███░░░░░░░   30%
 Phase 6 — SIEM + Splunk + Wazuh      [✅ DONE]     ██████████  100%
 Phase 7 — Home SOC Lab               [✅ DONE]     ██████████  100%
 Phase 8 — MITRE ATT&CK Framework     [🔄 ACTIVE]   ██░░░░░░░░   20%
-Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   █████░░░░░   50%
+Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   ███████░░░   70%
 ```
 
 ---
@@ -140,13 +140,16 @@ Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   █████░░░�
 
 ---
 
-## 🎯 TryHackMe — SOC Level 1 Path
+## 🎯 TryHackMe — Pre Security & SOC Level 1
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 50% Globally | 🎖️ 3 Badges | ⭐ [0x3] PATHFINDER
+**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 35% Globally | 🎖️ 4 Badges | ⭐ [0x3] PATHFINDER
 
-### ✅ Completed Rooms (9)
+### 📘 Currently Enrolled
+- 🌐 **Pre Security Path** — Network Fundamentals module in progress (OSI Model, TCP/UDP, DNS, HTTP requests)
+
+### ✅ Completed Rooms (12)
 - 🔵 Junior Security Analyst Intro
 - 🔵 SOC Role in Blue Team
 - 🔵 SOC L1 Alert Triage
@@ -155,15 +158,19 @@ Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   █████░░░�
 - 🔴 Offensive Security Intro
 - 🔵 Defensive Security Intro
 - 🎣 Phishing Analysis Fundamentals
-- 🖥️ Wazuh SIEM (Home Lab) 🆕
+- 🖥️ Wazuh SIEM (Home Lab)
+- 🌐 What is Networking? / Intro to LAN
+- 📡 HTTP in Detail 🆕
+- 🔠 DNS in Detail 🆕
 
 ### 🎖️ Badges
 - 🎳 First Four — Completed 4 rooms in first week
 - 🔥 3 Day Streak — Achieved 3 day hacking streak
-- 🔍 First Alert Closed — Closing first alert ⭐ Rare (6.8%)
+- 🔍 First Alert Closed — Closing first alert ⭐ Rare (7.3%)
+- 🕸️ Webbed — Understands how the world wide web works 🆕
 
 ### 🏆 League Achievement
-- 🥉 Bronze League — Top 5 | 384 Points
+- 🥇 Bronze League — **Rank 1** | 448 Points (Top 20 advance to next league)
 
 ---
 
