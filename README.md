@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1904" height="1076" alt="image" src="https://github.com/user-attachments/assets/6ed3c19d-7b39-4833-befa-81ce73883381" /><div align="center">
 
 ```
 ██████╗ ██╗     ██╗   ██╗███████╗    ████████╗███████╗ █████╗ ███╗   ███╗
@@ -39,7 +39,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 📊 Hands-on with **Splunk** — log analysis & threat hunting
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
 - 🖥️ Built a **Home SOC Lab** — Wazuh SIEM + Sysmon + Kali Linux attack simulation
-- 📚 Currently studying: **Pre Security Path (Networking Fundamentals, HTTP, DNS)** & **MITRE ATT&CK Framework**
+- 📚 Currently studying: **Web Application Security (HTTP/HTTPS, Security Headers, OWASP)** & **MITRE ATT&CK Framework**
 
 ---
 
@@ -75,15 +75,16 @@ career_target: SOC Analyst / Blue Team / DFIR
 ## 🗺️ SOC Analyst Roadmap Progress
 
 ```
-Phase 1 — Linux Foundation           [🔄 ACTIVE]   ███████░░░   70%
-Phase 2 — Networking                 [🔄 ACTIVE]   ██████░░░░   60%
+Phase 1 — Linux Foundation           [🔄 ACTIVE]   ████████░░   80%
+Phase 2 — Networking                 [✅ DONE]     ██████████  100%
 Phase 3 — Python Basics              [🟡 PARTIAL]  █████░░░░░   50%
-Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ███████░░░   70%
-Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   ███░░░░░░░   30%
+Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ████████░░   80%
+Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   █████░░░░░   50%
 Phase 6 — SIEM + Splunk + Wazuh      [✅ DONE]     ██████████  100%
 Phase 7 — Home SOC Lab               [✅ DONE]     ██████████  100%
-Phase 8 — MITRE ATT&CK Framework     [🔄 ACTIVE]   ██░░░░░░░░   20%
-Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   ███████░░░   70%
+Phase 8 — MITRE ATT&CK Framework     [🔄 ACTIVE]   ███░░░░░░░   30%
+Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   ████████░░   80%
+Phase 10 — Web App Security          [🔄 ACTIVE]   ███████░░░   70%
 ```
 
 ---
@@ -140,16 +141,17 @@ Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   ███████░�
 
 ---
 
-## 🎯 TryHackMe — Pre Security & SOC Level 1
+## 🎯 TryHackMe — SOC & Web Application Security
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 35% Globally | 🎖️ 4 Badges | ⭐ [0x3] PATHFINDER
+**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 25% Globally | 🎖️ 5 Badges | ⭐ Level 6 [0x6] VOYAGER
 
 ### 📘 Currently Enrolled
-- 🌐 **Pre Security Path** — Network Fundamentals module in progress (OSI Model, TCP/UDP, DNS, HTTP requests)
+- 🌐 **Web Application Basics** — HTTP requests/responses, security headers, WAF fundamentals
+- 🔍 **SOC Fundamentals** — alert investigation using the 5 Ws (Who, What, When, Where, Why)
 
-### ✅ Completed Rooms (12)
+### ✅ Completed Rooms (25)
 - 🔵 Junior Security Analyst Intro
 - 🔵 SOC Role in Blue Team
 - 🔵 SOC L1 Alert Triage
@@ -160,17 +162,25 @@ Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   ███████░�
 - 🎣 Phishing Analysis Fundamentals
 - 🖥️ Wazuh SIEM (Home Lab)
 - 🌐 What is Networking? / Intro to LAN
-- 📡 HTTP in Detail 🆕
-- 🔠 DNS in Detail 🆕
+- 📡 HTTP in Detail
+- 🔠 DNS in Detail
+- 🐧 Linux Fundamentals (cat, find, grep)
+- 🌍 Networking Concepts (OSI Model, TCP/IP)
+- 🛰️ Network Traffic Basics
+- 🔐 Incident Response — Perimeter Log Analysis (Firewall/WAF/VPN correlation)
+- 🌐 Web Application Basics 🆕
+- 📶 Traffic Analysis Basics
+- ...and more (25 total)
 
-### 🎖️ Badges
+### 🎖️ Badges (5)
 - 🎳 First Four — Completed 4 rooms in first week
 - 🔥 3 Day Streak — Achieved 3 day hacking streak
 - 🔍 First Alert Closed — Closing first alert ⭐ Rare (7.3%)
-- 🕸️ Webbed — Understands how the world wide web works 🆕
+- 🕸️ Webbed — Understands how the world wide web works
+- 🐈 cat linux.txt — Linux file handling fundamentals 🆕
 
 ### 🏆 League Achievement
-- 🥇 Bronze League — **Rank 1** | 448 Points (Top 20 advance to next league)
+- 🥇 Bronze League — **Rank 1** | 1,544 Points
 
 ---
 
@@ -188,3 +198,4 @@ Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   ███████░�
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=leidsct.leidsct)
 
 </div>
+<img width="1904" height="1076" alt="image" src="https://github.com/user-attachments/assets/04615ef1-5476-4631-b630-348aea0a79a3" />
