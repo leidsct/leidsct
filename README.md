@@ -145,7 +145,7 @@ Phase 10 — Web App Security          [🔄 ACTIVE]   ███████░�
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 25% Globally | 🎖️ 5 Badges | ⭐ Level 6 [0x6] VOYAGER
+**Profile:** [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/LEi.png)](https://tryhackme.com/p/LEi)(https://tryhackme.com/p/LEi) | 🏆 Top 25% Globally | 🎖️ 5 Badges | ⭐ Level 6 [0x6] VOYAGER
 
 ### 📘 Currently Enrolled
 - 🌐 **Web Application Basics** — HTTP requests/responses, security headers, WAF fundamentals
