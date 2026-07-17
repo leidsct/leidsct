@@ -30,6 +30,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 ```
 
 - 🏆 **1st Place** — CTF Competition, CCS Day 2025–2026 (Team Pogi)
+- 🥈 Promoted to TryHackMe **Silver League** after finishing **Rank 1** in Bronze League
 - 🎯 Following a structured **SOC Analyst Roadmap**
 - 🔵 Blue Team focused — Detection, Forensics, Analysis
 - 🐧 Comfortable with **Kali Linux** in no-internet CTF environments
@@ -39,6 +40,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 📊 Hands-on with **Splunk** — log analysis & threat hunting
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
 - 🖥️ Built a **Home SOC Lab** — Wazuh SIEM + Sysmon + Kali Linux attack simulation
+- 🔍 Completed a full **incident investigation walkthrough** — correlating firewall, WAF, and VPN logs to trace an attacker's lifecycle (recon → brute-force → lateral movement → C2 → exfiltration)
 - 📚 Currently studying: **Web Application Security (HTTP/HTTPS, Security Headers, OWASP)** & **MITRE ATT&CK Framework**
 
 ---
@@ -48,6 +50,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 | 🥇 Award | 📅 Year | 🏫 Organization |
 |---|---|---|
 | 1st Place — CTF Competition (Duo) | 2025–2026 | CPSU CCS Day |
+| Rank 1 — TryHackMe Bronze League | 2026 | TryHackMe |
 
 > *"Demonstrating exceptional analytical skills, strategic thinking, and cybersecurity expertise."*
 > — Dexter G. Dandan, CCS Program Head
@@ -75,16 +78,16 @@ career_target: SOC Analyst / Blue Team / DFIR
 ## 🗺️ SOC Analyst Roadmap Progress
 
 ```
-Phase 1 — Linux Foundation           [🔄 ACTIVE]   ████████░░   80%
-Phase 2 — Networking                 [🔄 ACTIVE]   ████████░░   80%
+Phase 1 — Linux Foundation           [🔄 ACTIVE]   ████████░░   85%
+Phase 2 — Networking                 [🔄 ACTIVE]   ████████░░   85%
 Phase 3 — Python Basics              [🟡 PARTIAL]  █████░░░░░   50%
-Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   ████████░░   80%
-Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   █████░░░░░   50%
+Phase 4 — Cybersecurity Fundamentals [🔄 ACTIVE]   █████████░   90%
+Phase 5 — Wireshark + Log Analysis   [🔄 ACTIVE]   ██████░░░░   60%
 Phase 6 — SIEM + Splunk + Wazuh      [✅ DONE]     ██████████  100%
 Phase 7 — Home SOC Lab               [✅ DONE]     ██████████  100%
 Phase 8 — MITRE ATT&CK Framework     [🔄 ACTIVE]   ███░░░░░░░   30%
-Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   ████████░░   80%
-Phase 10 — Web App Security          [🔄 ACTIVE]   ███████░░░   70%
+Phase 9 — Portfolio + Resume         [🔄 ACTIVE]   █████████░   90%
+Phase 10 — Web App Security          [🔄 ACTIVE]   ████████░░   80%
 ```
 
 ---
@@ -124,6 +127,7 @@ Phase 10 — Web App Security          [🔄 ACTIVE]   ███████░�
 | 🖥️ [SOC Home Lab](https://github.com/leidsct/SOC-Home-Lab) | Wazuh SIEM + Sysmon + Kali Linux — full attack simulation & detection with MITRE ATT&CK mapping (T1570) | ✅ Done |
 | 🔍 [CTF Writeups](https://github.com/leidsct/CTF-Writeups) | CTF certificate + challenge writeups | ✅ Done |
 | 🖥️ [Splunk SOC Dashboard](https://github.com/leidsct/Splunk-SOC-Dashboard) | DNS threat hunting using Splunk SIEM — found suspicious host via REFUSED query analysis | ✅ Done |
+| 🔍 Perimeter Log Investigation | Traced a full attacker lifecycle (recon → VPN brute-force → lateral movement via SMB → C2 beaconing → data exfiltration) by correlating firewall, WAF, and VPN logs | ✅ Done |
 | 📊 Basic Log Analyzer | Python script for log analysis | ⏳ Planned |
 | 📡 Packet Analysis Report | Wireshark traffic analysis | ⏳ Planned |
 
@@ -145,13 +149,14 @@ Phase 10 — Web App Security          [🔄 ACTIVE]   ███████░�
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-**Profile:** [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/LEi.png)](https://tryhackme.com/p/LEi)(https://tryhackme.com/p/LEi) | 🏆 Top 25% Globally | 🎖️ 5 Badges | ⭐ Level 6 [0x6] VOYAGER
+**Profile:** [LEi](https://tryhackme.com/p/LEi) | 🏆 Top 20% Globally | 🎖️ 6 Badges | ⭐ Level 6 [0x6] VOYAGER
 
 ### 📘 Currently Enrolled
+- 🥈 **Silver League** — promoted after finishing Rank 1 in Bronze League
 - 🌐 **Web Application Basics** — HTTP requests/responses, security headers, WAF fundamentals
 - 🔍 **SOC Fundamentals** — alert investigation using the 5 Ws (Who, What, When, Where, Why)
 
-### ✅ Completed Rooms (25)
+### ✅ Completed Rooms (27)
 
 **SOC & Blue Team**
 - 🔵 Junior Security Analyst Intro
@@ -175,6 +180,7 @@ Phase 10 — Web App Security          [🔄 ACTIVE]   ███████░�
 
 **Web Application Security**
 - 🌐 Web Application Basics (HTTP, URLs, request methods, response codes, headers)
+- 🔒 Web Security Essentials
 
 **Cybersecurity Fundamentals**
 - 🛡️ The CIA Triad
@@ -189,15 +195,16 @@ Phase 10 — Web App Security          [🔄 ACTIVE]   ███████░�
 **Incident Response**
 - 🔍 Incident Response — Perimeter Log Analysis (Firewall/WAF/VPN correlation)
 
-### 🎖️ Badges (5)
+### 🎖️ Badges (6)
 - 🎳 First Four — Completed 4 rooms in first week
 - 🔥 3 Day Streak — Achieved 3 day hacking streak
 - 🔍 First Alert Closed — Closing first alert ⭐ Rare (7.3%)
 - 🕸️ Webbed — Understands how the world wide web works
-- 🐈 cat linux.txt — Linux file handling fundamentals 🆕
+- 🐈 cat linux.txt — Linux file handling fundamentals
+- 🥇 Bronze League 1st Place — Finished Rank 1 in the Bronze League 🆕
 
 ### 🏆 League Achievement
-- 🥇 Bronze League — **Rank 1** | 1,544 Points
+- 🥈 **Silver League** (current) — promoted after 🥇 Bronze League Rank 1 finish | 1,820 Points
 
 ---
 
