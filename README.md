@@ -41,7 +41,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
 - 🖥️ Built a **Home SOC Lab** — Wazuh SIEM + Sysmon + Kali Linux attack simulation
 - 🔍 Completed a full **incident investigation walkthrough** — correlating firewall, WAF, and VPN logs to trace an attacker's lifecycle (recon → brute-force → lateral movement → C2 → exfiltration)
-- 📚 Currently studying: **Web Application Security (HTTP/HTTPS, Security Headers, OWASP)** & **MITRE ATT&CK Framework**
+- 📚 Currently studying: **Web Application Security (HTTP/HTTPS, Security Headers, OWASP)**, **MITRE ATT&CK Framework**, & **Cisco Intro to Cybersecurity (Module 4 — Protecting the Organization)**
 
 ---
 
@@ -72,6 +72,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🧃 [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - 🎯 [CyLab Security Academy](https://learn.cylabacademy.org)
 - 🔍 Acunetix Acuart (Vulnerable Web App Practice)
+- 🌐 [Cisco Networking Academy](https://www.netacad.com) — Intro to Cybersecurity
 
 ---
 
@@ -117,6 +118,7 @@ Phase 10 — Web App Security          [🔄 ACTIVE]   ████████�
 ![OWASP](https://img.shields.io/badge/OWASP_Juice_Shop-purple?style=for-the-badge&logo=owasp&logoColor=white)
 ![CyLab](https://img.shields.io/badge/CyLab_Academy-blue?style=for-the-badge&logo=academia&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Cisco Networking Academy](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
