@@ -124,6 +124,21 @@ Phase 10 — Web App Security          [🔄 ACTIVE]   ████████�
 
 ---
 
+## 🎓 Certifications
+
+<div align="center">
+
+### Introduction to Cybersecurity — Cisco Networking Academy
+*Issued July 2026 · Cert ID: 549b6111-760a-4490-874a-6be9656724aa*
+
+<img src="./certificates/cisco-intro-cybersecurity-cert.png" alt="Cisco Introduction to Cybersecurity Certificate" width="600"/>
+
+</div>
+
+**Skills covered:** online safety fundamentals, common cyber threats & vulnerabilities, personal protection strategies, organizational security practices, cybersecurity career pathways
+
+---
+
 ## 📁 Projects
 
 | Project | Description | Status |
