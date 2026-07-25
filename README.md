@@ -41,7 +41,8 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
 - 🖥️ Built a **Home SOC Lab** — Wazuh SIEM + Sysmon + Kali Linux attack simulation
 - 🔍 Completed a full **incident investigation walkthrough** — correlating firewall, WAF, and VPN logs to trace an attacker's lifecycle (recon → brute-force → lateral movement → C2 → exfiltration)
-- 📚 Currently studying: **Web Application Security (HTTP/HTTPS, Security Headers, OWASP)**, **MITRE ATT&CK Framework**, & **Cisco Intro to Cybersecurity (Module 4 — Protecting the Organization)**
+- 🎓 Completed **Cisco Networking Academy — Introduction to Cybersecurity** certification (July 2026)
+- 📚 Currently studying: **Web Application Security (HTTP/HTTPS, Security Headers, OWASP)** & **MITRE ATT&CK Framework**
 
 ---
 
@@ -51,6 +52,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 |---|---|---|
 | 1st Place — CTF Competition (Duo) | 2025–2026 | CPSU CCS Day |
 | Rank 1 — TryHackMe Bronze League | 2026 | TryHackMe |
+| Introduction to Cybersecurity — Certificate of Completion | 2026 | Cisco Networking Academy |
 
 > *"Demonstrating exceptional analytical skills, strategic thinking, and cybersecurity expertise."*
 > — Dexter G. Dandan, CCS Program Head
