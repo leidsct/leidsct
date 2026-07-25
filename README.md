@@ -53,7 +53,6 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🌐 Familiar with **OWASP Top 10** vulnerabilities
 - 📊 Hands-on with **Splunk** — log analysis & threat hunting
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
-- 🔍 Completed a full **incident investigation walkthrough** — correlating firewall, WAF, and VPN logs to trace an attacker's lifecycle (recon → brute-force → lateral movement → C2 → exfiltration)
 - 📚 Currently studying: **Web Application Security** & **MITRE ATT&CK Framework**
 
 <br/>
@@ -154,7 +153,6 @@ career_target: SOC Analyst / Blue Team / DFIR
 | 🖥️ [**SOC Home Lab**](https://github.com/leidsct/SOC-Home-Lab) | Wazuh SIEM + Sysmon + Kali Linux — full attack simulation & detection with MITRE ATT&CK mapping (T1570) | ✅ |
 | 🔍 [**CTF Writeups**](https://github.com/leidsct/CTF-Writeups) | CTF certificate + challenge writeups | ✅ |
 | 🖥️ [**Splunk SOC Dashboard**](https://github.com/leidsct/Splunk-SOC-Dashboard) | DNS threat hunting using Splunk SIEM — found suspicious host via REFUSED query analysis | ✅ |
-| 🔍 **Perimeter Log Investigation** | Traced a full attacker lifecycle (recon → VPN brute-force → lateral movement via SMB → C2 beaconing → data exfiltration) by correlating firewall, WAF, and VPN logs | ✅ |
 | 📊 **Basic Log Analyzer** | Python script for log analysis | ⏳ |
 | 📡 **Packet Analysis Report** | Wireshark traffic analysis | ⏳ |
 
@@ -228,9 +226,6 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🖥️ Inside a Computer System
 - 🖥️ Computer Types
 - 🎯 Careers in Cyber
-
-**Incident Response**
-- 🔍 Incident Response — Perimeter Log Analysis (Firewall/WAF/VPN correlation)
 
 </details>
 
