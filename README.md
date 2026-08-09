@@ -93,7 +93,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 
 | Phase | Status | Progress |
 |:---|:---:|:---|
-| 1 — Linux Foundation | 🔄 Active | ████████░░ 85% |
+| 1 — Linux Foundation | 🔄 Active | █████████░ 90% |
 | 2 — Networking | 🔄 Active | ████████░░ 85% |
 | 3 — Python Basics | 🟡 Partial | █████░░░░░ 50% |
 | 4 — Cybersecurity Fundamentals | 🔄 Active | █████████░ 90% |
