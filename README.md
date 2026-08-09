@@ -48,6 +48,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 **What I'm about:**
 - 🔵 Blue Team focused — Detection, Forensics, Analysis
 - 🐧 Comfortable with **Kali Linux** in no-internet CTF environments
+- ⌨️ Proficient in **Linux command line** — file management, permissions, piping & wildcards
 - 🔴 Experienced with **Authentication Bypass** using Burp Suite
 - 💉 Practiced **SQL Injection** using SQLMap on vulnerable web apps
 - 🌐 Familiar with **OWASP Top 10** vulnerabilities
