@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:00FF41&height=200&section=header&text=Leoneil%20Descartin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SOC%20Analyst%20%7C%20Blue%20Teamer%20%7C%20CTF%20Player&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SOC+Analyst+in+Training;CTF+Player+%7C+1st+Place+Winner;Blue+Team+%7C+DFIR+Focused;Cisco+Certified+%7C+Introduction+to+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SOC+Analyst+in+Training;CTF+Player+%7C+1st+Place+Winner;Blue+Team+%7C+DFIR+Focused;Cisco+Certified+%7C+2+Certifications)](https://git.io/typing-svg)
 
 <br/>
 
@@ -38,7 +38,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 **🏆 Highlights**
 - 🥇 1st Place — CTF Competition, CCS Day 2025–2026
 - 🥈 TryHackMe Silver League (Rank 1 in Bronze)
-- 🎓 Cisco Certified — Introduction to Cybersecurity
+- 🎓 Cisco Certified — Introduction to Cybersecurity & Operating Systems Basics
 - 🖥️ Built a full 3-VM Home SOC Lab from scratch
 
 </td>
@@ -67,6 +67,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 | **1st Place** — CTF Competition (Duo) | 2025–2026 | CPSU CCS Day |
 | **Rank 1** — TryHackMe Bronze League | 2026 | TryHackMe |
 | **Certificate of Completion** — Intro to Cybersecurity | 2026 | Cisco Networking Academy |
+| **Certificate of Completion** — Operating Systems Basics | 2026 | Cisco Networking Academy |
 
 </div>
 
@@ -81,6 +82,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 
 📄 **[View Full Certifications →](./CERTIFICATIONS.md)**
 
+`Operating Systems Basics` · Cisco Networking Academy · Issued Aug 2026
 `Introduction to Cybersecurity` · Cisco Networking Academy · Issued July 2026
 
 </div>
