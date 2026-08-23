@@ -25,7 +25,7 @@
 ### Cisco Networking Academy
 *Issued: Aug 23, 2026*
 
-<img src="./certificates/cisco-operating-systems-basics-cert.png.pdf" alt="Cisco Operating Systems Basics Certificate" width="700"/>
+<img src="./certificates/cisco-operating-systems-basics-cert.png" alt="Cisco Operating Systems Basics Certificate" width="700"/>
 
 </div>
 
