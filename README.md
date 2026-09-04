@@ -54,7 +54,8 @@ career_target: SOC Analyst / Blue Team / DFIR
 - 🌐 Familiar with **OWASP Top 10** vulnerabilities
 - 📊 Hands-on with **Splunk** — log analysis & threat hunting
 - 🎣 Experienced in **Phishing Email Analysis** — headers, body, defanging
-- 📚 Currently studying: **Web Application Security** & **MITRE ATT&CK Framework**
+- 🎯 Applies **MITRE ATT&CK Framework** for mapping attack techniques
+- 📚 Currently studying: **LetsDefend SOC Analyst Path** & **Web Application Security**
 
 <br/>
 
@@ -103,7 +104,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 | 5 — Wireshark + Log Analysis | 🔄 Active | ██████░░░░ 60% |
 | 6 — SIEM + Splunk + Wazuh | ✅ Done | ██████████ 100% |
 | 7 — Home SOC Lab | ✅ Done | ██████████ 100% |
-| 8 — MITRE ATT&CK Framework | 🔄 Active | ███░░░░░░░ 30% |
+| 8 — MITRE ATT&CK Framework | ✅ Done | ██████████ 100% |
 | 9 — Portfolio + Resume | 🔄 Active | █████████░ 90% |
 | 10 — Web App Security | 🔄 Active | ████████░░ 80% |
 
@@ -144,6 +145,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 ![CyLab](https://img.shields.io/badge/CyLab_Academy-blue?style=for-the-badge&logo=academia&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![LetsDefend](https://img.shields.io/badge/LetsDefend-1D3557?style=for-the-badge&logo=security&logoColor=white)
 
 </div>
 
@@ -260,7 +262,7 @@ career_target: SOC Analyst / Blue Team / DFIR
 
 </div>
 
-**Platforms:** [picoCTF](https://picoctf.org) · [OverTheWire — Bandit](https://overthewire.org/wargames/bandit/) · [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) · [CyLab Security Academy](https://learn.cylabacademy.org) · Acunetix Acuart · [Cisco Networking Academy](https://www.netacad.com)
+**Platforms:** [picoCTF](https://picoctf.org) · [OverTheWire — Bandit](https://overthewire.org/wargames/bandit/) · [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) · [CyLab Security Academy](https://learn.cylabacademy.org) · Acunetix Acuart · [Cisco Networking Academy](https://www.netacad.com) · [LetsDefend](https://letsdefend.io)
 
 <br/>
 
