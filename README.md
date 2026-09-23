@@ -48,7 +48,7 @@ San Carlos City, Negros Occidental, PH
 `Python` `HTML` `Linux (Bash)`
 
 **Practice Platforms**
-`TryHackMe` `picoCTF` `OverTheWire` `OWASP Juice Shop` `CyLab Academy` `Cisco NetAcad` `LetsDefend`
+`TryHackMe` `HackTheBox` `picoCTF` `OverTheWire` `OWASP Juice Shop` `CyLab Academy` `Cisco NetAcad` `LetsDefend`
 
 ---
 
