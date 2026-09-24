@@ -39,4 +39,16 @@
 
 ---
 
+<div align="center">
+
+## Cyber Threat Management
+### DICT-ITU DTC Initiative · Cisco Networking Academy
+*Issued: Sept 18, 2026 · Cert ID: 361aa6c6-2a42-45ae-9d2e-c4575796e023*
+
+<img src="./certificates/CYBER_1.png" alt="Cyber Threat Management Certificate" width="700"/>
+
+</div>
+
+---
+
 *More certifications will be added here as I progress through my SOC Analyst roadmap.*
