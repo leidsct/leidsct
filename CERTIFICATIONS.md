@@ -47,8 +47,21 @@
 
 <img src="./certificates/CYBER_1.png" alt="Cyber Threat Management Certificate" width="700"/>
 
+<img src="./certificates/CYBER2.png" alt="Cyber Threat Management Certificate of Course Completion" width="700"/>
+
 </div>
 
+**Skills covered:**
+- Explain why organizations must conform with specific compliance frameworks according to institutional context
+- Evaluate network and systems vulnerability
+- Create a vulnerability assessment plan by identifying and describing relevant threats
+- Explain how IT systems vulnerability is assessed
+- Select security controls based on organizational relevance and create a risk management plan
+- Explain how organizations recover from cybersecurity exploits
+- Recommend disaster recovery and incident response activities for a given organizational context
+- Explain how forensic investigations of internal and external security incidents are performed
+
+---
 ---
 
 *More certifications will be added here as I progress through my SOC Analyst roadmap.*
